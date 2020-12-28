@@ -1,0 +1,6 @@
+[submodule "just-to-do-it-api"]
+	path = just-to-do-it-api
+	url = https://github.com/sivayogasubramanian/just-to-do-it-api.git
+[submodule "just-to-do-it-frontend"]
+	path = just-to-do-it-frontend
+	url = https://github.com/sivayogasubramanian/just-to-do-it-frontend.git
