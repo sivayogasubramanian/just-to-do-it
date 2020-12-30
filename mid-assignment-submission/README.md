@@ -13,6 +13,14 @@ RUPPA NAGARAJAN SIVAYOGA SUBRAMANIAN
 ```
 A0217379U
 ```
+#### Running the Frontend:
+```
+yarn start
+```
+#### Running the API:
+```
+rails s -p 4000
+```
 
 #### Rails Default Startup Screen:
 
