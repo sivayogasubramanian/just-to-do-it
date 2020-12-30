@@ -13,3 +13,7 @@ RUPPA NAGARAJAN SIVAYOGA SUBRAMANIAN
 ```
 A0217379U
 ```
+
+#### Rails Default Startup Screen
+
+![Rails ScreenShot](./rails-default-startup-screen.png)
