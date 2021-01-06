@@ -16,9 +16,7 @@ A0217379U
 
 #### Site is now live at this url (As of 6 January 2021)
 
-```
 [https://just-to-do-it-website.netlify.app/](https://just-to-do-it-website.netlify.app/)
-```
 
 #### Running the Frontend:
 
