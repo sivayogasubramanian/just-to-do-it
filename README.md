@@ -48,7 +48,7 @@ git clone --recursive git@github.com:sivayogasubramanian/just-to-do-it.git
 
 If you do not want to go through the hassle of creating an account, you can login into Just To-Do It's official demo account to try the application out
 
-Email: `justtodoit@gmail.com`
+Email: `justtodoit@gmail.com`\
 Password: `justtodoit`
 
 ## Steps before running this project locally
