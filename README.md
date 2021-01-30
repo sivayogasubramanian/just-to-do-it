@@ -44,7 +44,7 @@ Just To-Do it is a todo manager that is simple to use and helps you organise you
 git clone --recursive git@github.com:sivayogasubramanian/just-to-do-it.git
 ```
 
-## Trying out Just To-Di It
+## Trying out Just To-Do It
 
 If you do not want to go through the hassle of creating an account, you can login into Just To-Do It's official demo account to try the application out
 
