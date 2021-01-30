@@ -44,6 +44,13 @@ Just To-Do it is a todo manager that is simple to use and helps you organise you
 git clone --recursive git@github.com:sivayogasubramanian/just-to-do-it.git
 ```
 
+## Trying out Just To-Di It
+
+If you do not want to go through the hassle of creating an account, you can login into Just To-Do It's official demo account to try the application out
+
+Email: `justtodoit@gmail.com`
+Password: `justtodoit`
+
 ## Steps before running this project locally
 
 This project uses .env files for both the frontend and backend modules. It is crucial to set your .env files before you can run locally. To set them up you can follow instructions in the frontend and api submodules repectively
