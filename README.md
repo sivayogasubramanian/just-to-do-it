@@ -8,9 +8,8 @@
 
 </div>
 
-<h3 align="center">A todo manager built for CVWO</h3>
+<h3 align="center">A todo manager built for CVWO applications</h3>
 <h3 align="center"><a href="https://just-to-do-it-website.netlify.app/">Get Started here!</a></h3>
-<h4 align="center">RUPPA NAGARAJAN SIVAYOGA SUBRAMANIAN | A0217379U</h4>
 <br/>
 
 ## Overview
