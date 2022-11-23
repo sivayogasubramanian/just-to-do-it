@@ -4,12 +4,9 @@
 
 <div align="center">
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/9514b006-1e01-472a-9101-7141f12a9f1e/deploy-status)](https://app.netlify.com/sites/just-to-do-it-website/deploys)
-
 </div>
 
 <h3 align="center">A todo manager built for CVWO applications</h3>
-<h3 align="center"><a href="https://just-to-do-it-website.netlify.app/">Get Started here!</a></h3>
 <br/>
 
 ## Overview
